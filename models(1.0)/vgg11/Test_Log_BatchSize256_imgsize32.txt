@@ -1,0 +1,8 @@
+Time-(0.7s)  | Total Test ErrorRate-0.00
+TEST[00001]  |  Predict-40대(남)  |  Answer-40대(남)  |  ErrRate-0.00%)
+TEST[00002]  |  Predict-20대(남)  |  Answer-20대(남)  |  ErrRate-0.00%)
+TEST[00003]  |  Predict-30대(여)  |  Answer-30대(여)  |  ErrRate-0.00%)
+accuracy_score: 1.0
+recall_score: 1.0
+precision_score: 1.0
+f1_score: 1.0
